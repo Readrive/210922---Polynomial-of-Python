@@ -1,2 +1,2 @@
-# 210922   Polynomial of Python
+# 210922   Polynomial with Python
  
